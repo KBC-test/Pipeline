@@ -16,3 +16,6 @@ cp -r "$source_dir"/* "$backup_dir"
 
 # 백업 완료 메시지를 출력합니다.
 echo "파일이 성공적으로 백업되었습니다: $backup_dir"
+
+
+#수정테스트.
